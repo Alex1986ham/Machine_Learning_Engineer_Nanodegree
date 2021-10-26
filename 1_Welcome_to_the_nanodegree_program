@@ -15,3 +15,107 @@ The final project is open for you to do any project of your choosing, to add to 
 
 https://youtu.be/qBR6A0IQXEE
 
+--------------------------------------
+
+Courses and Syllabus
+This program is all about advanced machine learning techniques used in the industry. Here is an overview of what you can expect as you move through the classroom.
+
+The content is divided into modules listed below
+
+Welcome to the Nanodegree.
+Software Engineering Fundamentals
+Machine Learning in Production
+Machine Learning Deployment Case Studies
+Build Your Own Machine Learning Portfolio (Capstone) Project.
+Software Engineering Fundamentals
+First, we'll start by teaching you some best practices for software engineering. You'll learn how to optimize your code, write tests and documentation for a code base, and build a Python package of your own. These skills are valuable in any engineering job and will act as a great foundation for applying machine learning skills in industry.
+
+Machine Learning in Production
+In this section, you'll learn about cloud services and model deployment. Deployment means making a model available for use in a piece of hardware or web application, such as a voice assistant or recommendation engine. In this lesson, you'll see how to analyze housing data and deploy a predictive model in SageMaker. In addition to learning about model deployment, you’ll also learn about model serving and updating. You'll learn how to connect a deployed model to a website through an API using AWS services. After deploying the model, you’ll update the model to account for changes in the underlying text data—an especially valuable skill in industries that continuously collect data. By the end of this section, you should have all the skills you need to train and deploy models to solve tasks of your own design!
+
+Machine Learning, Deployment Case Studies
+In partnership with AWS, we’ve created a course that examines a variety of machine learning models as they are applied, at-scale, to real-world tasks. You’ll learn how to deploy both unsupervised and supervised algorithms and apply them to tasks such as feature engineering and time series forecasting. This content addresses questions such as:
+
+How do you decide on the correct machine learning model for a given task?
+How can you utilize cloud deployment tools such as AWS SageMaker to work with data and improve your machine learning models?
+
+https://video.udacity-data.com/topher/2019/March/5c945491_screen-shot-2019-03-21-at-8.20.36-pm/screen-shot-2019-03-21-at-8.20.36-pm.png
+
+Capstone Project
+This section has two phases. The first is the Capstone Proposal, during which you will draft a proposal outlining the domain of the problem you would like to solve, and your approach. This is followed by the Capstone Project: here, you will leverage your newly-learned skills to solve the problem—as outlined in your proposal—by applying machine learning algorithms and techniques.
+
+-------------------------------------
+
+Additional Materials
+You do not have to go through any of this extracurricular material; these lessons are just a collection of supporting material and resources.
+
+We include some additional materials for those that are interested in specific, advanced, subgenres of machine learning.
+
+Additional Materials: NLP Fundamentals
+Additional Materials: Convolutional Neural Networks
+Additional Materials: Web Deployment with Flask
+Please use these courses to learn more about natural language processing (NLP), convolutional neural networks, and web applications, respectively, if those topics interest you.
+These may also be helpful in completing final, capstone projects!
+
+You'll find these topics in the Extracurricular section of your classroom navigation bar.
+
+----------------------------------------
+
+Machine Learning Careers
+Over the past few years, the demand for machine learning specialists and engineers has soared, with Machine Learning Engineers and Specialists ranking among the top emerging jobs on LinkedIn. Recently, machine learning has been adopted by a wide range of industries, including medical diagnostic companies, finance and market prediction firms, and many more. Udacity’s Machine Learning Nanodegree program was built in response to this demand to provide access to this growing tech field to a broader audience.
+
+We’ve seen advances in research and industry practices as more companies look to build machine learning products. Specifically, there is a growing demand for engineers who are able to deploy machine learning models to global audiences. Also, machine learning engineers are often expected to work within larger software development teams. To keep up with this advancement and bring the best educational experience to our students, we have included content that includes:
+
+Best practices for software engineering, and
+The latest deployment skills, including deploying models at scale and updating models in response to changes in the underlying data.
+These skills will set you apart from engineers who know only machine learning algorithms, but not the details of machine learning product development, at scale. So, I hope you're excited to learn even more!
+
+-------------------------------------------
+
+What it Takes
+Completing a Udacity program takes perseverance and dedication, but the rewards outweigh the challenges. Throughout your program, you will develop and demonstrate specific skills that will serve you for a lifetime. Congratulations on taking the first step towards developing the skills you need to power your career through tech education!
+
+The videos, text lessons, and quizzes you encounter in the classroom are optional but recommended. The project at the end of this course will test your ability to apply the skills and strategies you have learned in the classroom to real-world problems. It will also provide tangible outputs you can use to demonstrate your skills for current and future employers.
+
+The project is designed to be challenging. Many students initially struggle, but with a little grit, they are able to learn from their mistakes and build their skills. Data from nearly 100,000 Udacity graduates show that commitment and persistence are the highest predictors of whether or not a student will graduate.
+
+At some point, nearly every student will get stuck on a new concept or skill, and doubt may set in. Don’t panic. Don’t quit. Be patient, and work through the problem. Remember that you are not alone and the problem that you are encountering is likely one that many others have experienced as well. Whether you are stuck or simply looking for encouragement, you’ll find Udacity Mentors and students there to help.
+
+----------------------------------------
+
+Mentor Help
+Technical Mentor Support: is provided through Knowledge, our expert Q&A platform. You can search for answers to questions similar to yours or post new questions related to your project or lessons. Udacity’s expert technical mentors answer all-new questions.
+
+How to Use Knowledge
+To ensure you’re getting the quality and prompt support you need, it’s helpful to follow these best practices and guidelines for Knowledge.
+
+https://video.udacity-data.com/topher/2020/May/5ebeb959_knowledge1/knowledge1.png
+
+Search for Similar Existing Questions: with tens of thousands of students enrolled in our programs, many of your questions may have already been asked and answered. To look for existing answers to similar questions that may provide the immediate support you need, use the filter on the left side of your screen to select your course and related project or write in the key terms related to your question in the search bar at the top of the page.
+Ask a New Question: if you want to ask a new question, select “Ask a Mentor” at the top of the page. Kindly remember that Knowledge is for technical questions only; for other types of support and feedback, please write to support at support@udacity.com.
+When you ask a new question, the platform immediately assigns it to one of our expert mentors spread across the globe to ensure prompt replies. Of note, when a mentor answers your question, you will see “Mentor” next to their name to differentiate their support from comments your fellow learners may also provide.
+
+https://video.udacity-data.com/topher/2020/May/5ebeb9eb_k2/k2.png
+
+If you don't see your question, simply create a new post. You are likely to get an answer within 24 hours and you'll be helping future students who may encounter the same problem.
+How to Ask a Good Question?
+Students that follow these tips typically receive the strongest initial support and avoid back-and-forth with mentors:
+
+Ask Specific Questions: if you have closely related questions that form part of a general theme, it’s okay to ask them all together. But consider using bullet points to separately list each of the questions in your post. Keeping your questions organized helps ensure mentors provide clear answers to each specific question. If your questions are less closely connected, it’s best to submit new, separate questions for each one.
+Provide Details and Links: explaining what (if anything) you’ve already attempted to solve the problem helps mentors know where to start when answering your question. Likewise, if your question is not related specifically to a project, but rather to an exercise, quiz, or lesson, it’s helpful to include information such as lesson or quiz name, screenshots, and classroom links.
+Overall the key to asking a good question is to imagine yourself trying to answer your own question. Imagine you were coming to it without any prior knowledge. Does the question make complete sense? Or are there gaps around the context?
+Start with a Clear Question Title: attempt to summarize your entire question in one sentence. You may even write the title at the end, just before posting the question. This will help you summarize the issue before you include details in the question itself.
+Share Code Correctly: by using the “Code Block” option to properly format your code. If your question concerns a piece of external code, include a link to the file on Github.
+In fact, Github lets you create a link to a specific line in a file. To do so, just click to the left of the line number, and then select copy permalink in the ellipsis that appears in the margin. Paste the permalink right into the Github box on your question submission form.
+Figuring out Errors: if your question is about an error message or stack trace, include the entire error message, by either formatting the error message using the “Code Block” option or creating a Gist or a Paste on Pastebin, and including a link to it in the description.
+Avoid Screenshots of Code or Error Messages: do not use screenshots of code or error messages. They are hard to read and the text cannot be copied to debug it.
+If you receive a helpful answer, kindly select it as the “accepted answer.” For questions from other students, if you see other helpful answers kindly select the “upvote” option. Conversely, if you don’t think an answer strongly answers a question, select the “downvote” option.
+
+https://video.udacity-data.com/topher/2020/May/5ebeb997_image2/image2.png
+
+Getting Additional Support
+At times, students want support from a different mentor. As everyone learns differently, we want to make this a simple process for learners like you.
+
+If you receive an answer that you are not satisfied with and want a different mentor to chime in, kindly select the option at the top of the page in Knowledge. If you reply directly in the comments section, without clicking on the link at the top of the page, your question will not be answered by another mentor.
+
+https://video.udacity-data.com/topher/2020/May/5ebeb954_lastimage/lastimage.png
